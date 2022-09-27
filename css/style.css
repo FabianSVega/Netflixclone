@@ -1,7 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
-    color: #ffffff;
+    color:#ffffff;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
 }
@@ -134,20 +134,20 @@ div.login.span{
     width: 39%;
 }
 
-.tv img{
+.contenido img{
     width: 100%;
     height: auto;
     border: 0;
     position: relative;
-    z-index: 1;
+    z-index: 2;
 }
 
-.tv h2{
-    font-weight: 200;
-    font-size: 25px;
+.contenido h2{
+    font-weight: bold;
+    font-size: 50px;
 }
 
-.tv p{
+.contenido p{
     font-size: 25px;
     font-weight: 200;
 }
@@ -156,6 +156,13 @@ div.login.span{
     position: absolute;
     transform: translate(-373px, 68px);
     width: 313px;
+    z-index: 1;
+}
+
+.disfruta video{
+    position: absolute;
+    transform: translate(-347px, 39px);
+    width: 263px;
     z-index: 1;
 }
 /*FONDO*/
