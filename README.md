@@ -1,6 +1,6 @@
 # Netflixclone
-
-<H2> Here you going to find the clone in HTML and CSS of Netflix..</H2>
+🔭
+<H2> 🔭 Here you going to find the clone in HTML and CSS of Netflix..</H2>
 This I did make with the end for learn HTML and CSS in the course of Azul School
 
 <H2>- This a result of code of you will could see in this repository</H2>
